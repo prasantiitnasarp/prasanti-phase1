@@ -1,0 +1,47 @@
+{
+	"profile":{
+		"img":"images.jpg",
+		"name":"prasanti",
+		"roll":"17A31A074",
+		"place":"kakinada",
+		"des":"trainer cum developer"
+			},
+		"career":{
+			"info":"i want to seek a position where i can explore my thoughts"
+		},
+		"education":[
+			{
+			"sno":"1",
+            "degree":"b.tech",
+            "institute":"pragati",
+            "per":"86",
+            "yop":"2018"
+			},
+			{
+			"sno":"2",
+            "degree":"intermediate",
+            "institute":"narayana",
+            "per":"90",
+            "yop":"2014"
+			},
+			{
+			"sno":"3",
+            "degree":"ssc",
+            "institute":"sama",
+            "per":"80",
+            "yop":"2012"
+			}
+		],
+		"languages":[
+			{
+              "lang":"english"
+			},
+			{
+				"lang":"telugu"
+			},
+			{
+				"lang":"hindi"
+			}
+		]
+		
+}

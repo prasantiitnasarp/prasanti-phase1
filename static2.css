@@ -1,0 +1,46 @@
+body
+{
+	background-color: lightblue
+
+}
+.maindiv
+{
+background-color: lightgreen;
+display:flex;
+margin:10%;
+justify-content: space-around;
+border-radius: 4%;
+box-shadow: 4px 4px 4px 4px;
+}
+.subdiv1
+{
+	background-color: lightpink;
+	margin: 4%;
+	border-radius: 3%;
+	width: 20%;
+	text-align: center;
+	box-shadow: 3px 3px 3px 3px;
+}
+.subdiv2
+{
+	justify-content: space-around;
+}
+.subdiv2
+{
+	background-color: lightpink;
+	margin :4%;
+	text-align: left;
+	width: 50%;
+	box-shadow: 3px 3px 3px 3px;
+}
+img
+{
+	height: 30%;
+	width:60%;
+	border-radius: 4%;
+	margin-top: 10%
+}
+ul
+{
+	margin-left: 20%;
+}
